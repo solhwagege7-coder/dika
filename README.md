@@ -24,5 +24,5 @@ yang tertarik dengan dunia pemograman dan teknologi.
 <Li>instagram:Dvann0oo__</Li>
 <li>email:Dikaarmando21@gmail.com</li>
 
-![dika armando divano](https://www.instagram.com/dvann0o__/)
+[Instragram](https://www.instagram.com/dvann0o__/)
 
