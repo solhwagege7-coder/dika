@@ -20,3 +20,7 @@ yang tertarik dengan dunia pemograman dan teknologi.
 2.Website Portofolio
 <li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
 
+# hubungi saya
+<Li>instagram:Dvann0oo__</Li>
+<li>email:Dikaarmando21@gmail.com</li>
+
