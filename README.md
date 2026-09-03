@@ -25,4 +25,5 @@ yang tertarik dengan dunia pemograman dan teknologi.
 <li>email:Dikaarmando21@gmail.com</li>
 
 [Instragram](https://www.instagram.com/dvann0o__/)
+[Gambar](30dc7ef0149a85f3444c8478e48a5987_0.webp)
 
