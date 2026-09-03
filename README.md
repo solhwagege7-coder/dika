@@ -6,10 +6,17 @@ yang tertarik dengan dunia pemograman dan teknologi.
 <li>Jurusan: Rekayasa Perangkat Lunak</li>
 <li>Keahlian:coding tipis" sisanya bikin kesabaran menipis</li>
 <li>Hobi:coding dan berolahraga dan bermain game</li>
+
 # Skills
 <li>HTML</li>
 <li>CSS</li>
 <li>PHP</li>
 <li>GITHUB</li>
+
 # Project
-1. 
+1. Website restaurant
+<li>website sederhana untuk menampilkan menu dan informasi restaurant</li>
+
+2.Website Portofolio
+<li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
+
